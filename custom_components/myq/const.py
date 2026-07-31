@@ -1,0 +1,10 @@
+DOMAIN = "myq"
+MANUFACTURER = "The Chamberlain Group"
+CONF_USERNAME = "username"
+CONF_PASSWORD = "password"
+CONF_API_HOST = "api_host"
+CONF_API_VERSION = "api_version"
+DEFAULT_API_HOST = "https://api.myqdevice.com"
+DEFAULT_API_VERSION = "v6.0"
+PLATFORMS = ["cover", "sensor"]
+SCAN_INTERVAL = 30
